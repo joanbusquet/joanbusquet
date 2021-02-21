@@ -1,10 +1,10 @@
 <p align="center" width="300">
    <img src="https://avatars.githubusercontent.com/u/40794343?s=460&u=8b2714dd5889f20ee6dcbcd2d445c58eb6931dec&v=4" width="200" />
-   <h3 align="center">Hola, soy Joan!</h3>
+   <h3 align="center">Hi, I'm Joan!</h3>
 </p>
-<p align="center">Soy Senior Fullstack developer del ecosistema de Javascript</p>
-<p align="center">Mi pasión es ser cada día un 1% mejor que ayer. </p>
-<p align="center">Paso mis horas devorando libros, realizando cursos y picando teclas!</p>
+<p align="center">Senior Fullstack developer on JavaScript ecosystem</p>
+<p align="center">My passion is to be 1% better every day than I was yesterday. </p>
+<p align="center">I spend my hours reading nonfiction books, doing courses, and coding!</p>
 
 <p align="center">
    <a href="https://twitch.tv/joanbusquet" target="_blank" rel="noopener noreferrer">
