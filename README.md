@@ -2,7 +2,7 @@
    <img src="https://avatars.githubusercontent.com/u/40794343?s=460&u=8b2714dd5889f20ee6dcbcd2d445c58eb6931dec&v=4" width="200" />
    <h3 align="center">Hi, I'm Joan!</h3>
 </p>
-<p align="center">Senior Fullstack developer on JavaScript ecosystem</p>
+<p align="center">Senior Fullstack developer on JavaScript ecosystem. MERN Stack expert.</p>
 <p align="center">I spend my hours learning, reading nonfiction books, doing courses, and coding my projects!</p>
 
 <p align="center">
