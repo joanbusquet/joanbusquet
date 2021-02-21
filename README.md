@@ -3,7 +3,7 @@
    <h3 align="center">Hi, I'm Joan!</h3>
 </p>
 <p align="center">Senior Fullstack developer on JavaScript ecosystem</p>
-<p align="center">I spend my hours reading nonfiction books, doing courses, and coding!</p>
+<p align="center">I spend my hours learning, reading nonfiction books, doing courses, and coding my projects!</p>
 
 <p align="center">
    <a href="https://twitch.tv/joanbusquet" target="_blank" rel="noopener noreferrer">
