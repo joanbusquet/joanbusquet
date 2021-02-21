@@ -3,7 +3,6 @@
    <h3 align="center">Hi, I'm Joan!</h3>
 </p>
 <p align="center">Senior Fullstack developer on JavaScript ecosystem</p>
-<p align="center">My passion is to be 1% better every day than I was yesterday. </p>
 <p align="center">I spend my hours reading nonfiction books, doing courses, and coding!</p>
 
 <p align="center">
