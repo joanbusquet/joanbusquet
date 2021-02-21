@@ -7,16 +7,16 @@
 <p align="center">Paso mis horas devorando libros, realizando cursos y picando teclas!</p>
 
 <p align="center">
-   <a href="https://twitch.tv/joanbusquet" target="_blank">
+   <a href="https://twitch.tv/joanbusquet" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitch-round-color.svg" alt="midudev" height="40px" width="40px" />
   </a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UC4PmjgLqVzsog9NgpeM47Ag" target="_blank">
+   <a href="https://www.youtube.com/channel/UC4PmjgLqVzsog9NgpeM47Ag" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/youtube-round-color.svg" alt="midudev" height="40px" width="40px" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/joanbusquet" target="_blank">
+  <a href="https://instagram.com/joanbusquet" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-color.svg" alt="midu.dev" height="40px" width="40px" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/joanbusquet" target="_blank">
+  <a href="https://www.reddit.com/user/joanbusquet" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/reddit-round-color.svg" alt="midu.dev" height="40px" width="40px" />
   </a>
    
